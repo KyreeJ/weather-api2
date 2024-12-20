@@ -23,6 +23,9 @@
   ## Contributors
   Ucf bootcamp , TA Andres
   ## testing
+  ![weather dashboard](<Screenshot 2024-12-20 at 5.03.59 PM.png>)
+  ![saving data of citys](<Screenshot 2024-12-20 at 5.06.05 PM.png>)
+  ![API routes used](<Screenshot 2024-12-20 at 5.12.04 PM.png>)
    
    
    MIT License
